@@ -13,9 +13,7 @@
 <body>
 <div class="container col-md-10 col-md-offset-1">
 	<div class="panel panel-primary">
-	
-				<div class="panel-heading"> recherche de produits</div>
-				
+					
 			<div class="panel-body"> 
 				 <form method="get" action="recherche.php">
          			 motCle: <input type="text" name="motCle" value="${modele.motCle}"/>
